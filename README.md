@@ -1,6 +1,8 @@
 # Color filtering tool
 An open color filtering tool for binarizing images using HSV and RGB models. The program runs on OpenCV libraries.
 
+## How I can choose mask/color model type?
+For this, use 3 lower trackbars. This trackbars need for choose it.
+![3 lower trackbar](/imgr for readme/3lt.png)
 
-## How to use? 
-Instructions will be available soon)
+###### Artem Zaborshikov, 2020. 
