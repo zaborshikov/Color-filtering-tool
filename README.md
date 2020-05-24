@@ -5,7 +5,7 @@ An open-source color filtering tool for binarizing images using HSV and RGB mode
 
 * Any Python-compatible OS
 * Python 3.x
-** Installed OpenCV library
+* Installed OpenCV library
 
 # Installing on Windows with Chocolatey
 
