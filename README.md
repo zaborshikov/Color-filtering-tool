@@ -5,32 +5,25 @@ An open-source color filtering tool for binarizing images using HSV and RGB mode
 
 * Any Python-compatible OS
 * Python 3.x
-* Installed OpenCV library
+* Installed OpenCV and NumPy librarys
 
-# Installing on Windows with Chocolatey
+# Installing on Windows
+1. Install git
 
-1. Install Chocolatey from site: [https://chocolatey.org/](Chocolatey.org)
-2. Install git
+> https://git-scm.com/download/win
 
-> choco install git
+2. Install Python 3
 
-3. Install Python 3
+> https://www.python.org/downloads/release/python-383/
 
-> choco install python --pre
-
-4. Clone this repository
+3. Clone this repository
 
 > git clone https://github.com/zaborshikov/Color-filtering-tool.git
 
-5. Install OpenCV
+4. Install OpenCV
 
 > pip install opencv-python
 
-# Issues
-
-1. Error related to the numpy library, fix:
-
-> pip install numpy
 
 ## How I can choose mask/color model type?
 For this, use 3 lower trackbars. This trackbars need for choose it.
