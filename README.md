@@ -1,13 +1,13 @@
 # Color filtering tool
 An open-source color filtering tool for binarizing images using HSV and RGB models. The program runs on OpenCV libraries.
 
-# Dependencies
+## Dependencies
 
 * Any Python-compatible OS
 * Python 3.x
 * Installed OpenCV and NumPy librarys
 
-# Installing on Windows
+## Installing on Windows
 1. Install git
 
 > https://git-scm.com/download/win
@@ -16,13 +16,22 @@ An open-source color filtering tool for binarizing images using HSV and RGB mode
 
 > https://www.python.org/downloads/release/python-383/
 
-3. Clone this repository
+3. Install OpenCV and NumPy
 
-> git clone https://github.com/zaborshikov/Color-filtering-tool.git
+``pip install opencv-python``
 
-4. Install OpenCV
+``pip install NumPy``
 
-> pip install opencv-python
+
+4. Clone this repository
+
+``git clone https://github.com/zaborshikov/Color-filtering-tool.git``
+
+## Launch
+1. Open the repository
+2. Run the command
+
+``python3 colorfiltering.py``
 
 
 ## How I can choose mask/color model type?
