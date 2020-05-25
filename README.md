@@ -8,11 +8,9 @@ An open-source color filtering tool for binarizing images using HSV and RGB mode
 * Installed OpenCV and NumPy librarys
 
 ## Installing on Windows
-1. Install git
+1. Install git and Python 3
 
 > https://git-scm.com/download/win
-
-2. Install Python 3
 
 > https://www.python.org/downloads/release/python-383/
 
